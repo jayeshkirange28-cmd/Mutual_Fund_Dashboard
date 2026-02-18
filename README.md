@@ -30,4 +30,6 @@ It includes investment-related data such as fund category, AMC, invested amount,
 * Clean and user-friendly dashboard layout
 
 6. Screenshot
+
+Exampel:- ![Dashboard Preview ].(https://github.com/jayeshkirange28-cmd/Mutual_Fund_Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
    
